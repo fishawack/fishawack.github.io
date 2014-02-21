@@ -1,0 +1,10 @@
+---
+layout: post
+title:  My first attempts at Jekyll
+date:   2014-02-21 00:57:35
+categories: jekyll update
+---
+
+Can you see this text ?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies mi quis turpis ultrices, id lacinia tortor dapibus. Proin scelerisque commodo odio, eu imperdiet dolor placerat sit amet. Suspendisse semper arcu ornare gravida semper. Sed blandit ornare mattis. Donec ullamcorper, metus a gravida tempor, est tortor tincidunt neque, in porta ipsum metus vitae sem. Curabitur lobortis, lorem quis vulputate placerat, lectus elit facilisis sem, eget commodo velit lacus eget massa. Proin ligula sapien, bibendum ac ultricies eget, hendrerit id dolor. Vestibulum quis rutrum felis. Cras ac risus hendrerit, porttitor quam nec, malesuada arcu. Pellentesque in diam vel velit molestie scelerisque at vel nisi. Ut auctor tristique metus, ut blandit lacus faucibus fermentum. Praesent scelerisque augue in tellus condimentum venenatis. Vivamus sed ligula arcu. Mauris hendrerit felis blandit purus euismod viverra.
